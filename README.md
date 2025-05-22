@@ -23,15 +23,13 @@
 - Projects that require CI/CD, containerization, or multi-cloud orchestration
 
 ## 📫 How to Reach Me
-- ✉️ baranozck@gmail.com  
+- ✉️ baranozcicek@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/baranozck/)  
 - 🔗 [Portfolio Website](#) *(Coming soon)*
 
 ## 😄 Pronouns
 He/Him
 
-## ⚡ Fun Fact
-I built a mobile app to track crypto & stock prices in real time using Firebase and WebSockets — and integrated my own backend using FastAPI + TimescaleDB!
 
 ---
 
