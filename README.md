@@ -24,7 +24,7 @@
 
 ## 📫 How to Reach Me
 - ✉️ baranozcicek@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/baranozck/)  
+- 💼 [LinkedIn](www.linkedin.com/in/baran-özçiçek-049737143)  
 - 🔗 [Portfolio Website](#) *(Coming soon)*
 
 ## 😄 Pronouns
