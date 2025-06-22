@@ -17,7 +17,7 @@
 - 🔐 Secure deployment pipelines using GitHub Actions and Tekton  
 - 📈 TimescaleDB for storing and analyzing historical financial data
 
-##🚧 Currently Working On
+## 🚧 Currently Working On
 - ⚽ Betting AI System – Building an end‑to‑end football betting analytics platform
 - 🔮 AI‑driven odds prediction & automated strategy backtesting
 - 📊 Block‑bootstrap confidence intervals for ROI, Sharpe ratio & max drawdown
