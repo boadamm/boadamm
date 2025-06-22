@@ -17,6 +17,14 @@
 - 🔐 Secure deployment pipelines using GitHub Actions and Tekton  
 - 📈 TimescaleDB for storing and analyzing historical financial data
 
+##🚧 Currently Working On
+-⚽ Betting AI System – Building an end‑to‑end football betting analytics platform
+-🔮 AI‑driven odds prediction & automated strategy backtesting
+-📊 Block‑bootstrap confidence intervals for ROI, Sharpe ratio & max drawdown
+-🖥️ FastAPI backend + React dashboard with real‑time metrics & heatmaps
+-🧠 Upcoming: reinforcement‑learning agent for adaptive wagering
+
+💞️ Looking to Collaborate On
 ## 💞️ Looking to Collaborate On
 - Open-source tools for AI-driven trading, data science, or mobile finance apps  
 - Research-driven software projects integrating Python, FastAPI, and scalable backends  
